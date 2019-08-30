@@ -1,4 +1,4 @@
 # Devops-aula04
-Marley e eu 
-Já estou com saudades
-Simplesmente acontece 
+Marley e eu <br/>
+Já estou com saudades <br/>
+Simplesmente acontece <br/>
