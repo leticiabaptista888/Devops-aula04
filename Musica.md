@@ -1,5 +1,5 @@
-Ela só quer paz
-A droga do amor
-Linda, louca e mimada
-Nem de graça
-Malandragem 
+Ela só quer paz <br/>
+A droga do amor <br/>
+Linda, louca e mimada <br/>
+Nem de graça <br/>
+Malandragem <br/>
